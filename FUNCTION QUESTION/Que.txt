@@ -1,0 +1,24 @@
+DSA Questions
+
+Functions
+
+ * WAP to calculate sum of n numbers using function.
+ * Calculate factorial using function.
+ * Calculate Binomial Coefficient using factorial function.
+ * Calculate sum of digits in a given number.
+ * Write a function to print Fibonacci Series.
+ * Code to convert binary to decimal & decimal to binary.
+ * Find out if a number is a power of 2 or not.
+ * WAP to find the reverse of an integer.
+
+Array or Vector
+
+ * Smallest value among all elements in a given array/greater value.
+ * Reverse an array by 2 pointer approach.
+ * Sum of all elements, product of all elements.
+ * Swap max & min of an array.
+ * WAP to print unique values in an array.
+ * WAP to print the intersection of 2 arrays.
+ * Find Single Element.
+ * Pair Sum Question.
+ * Majority Element.
