@@ -63,5 +63,5 @@ int main() {
                     break;
         default : cout << "Invalid Operator" << endl;
     }
-    return ;
+    return 0;
 }
