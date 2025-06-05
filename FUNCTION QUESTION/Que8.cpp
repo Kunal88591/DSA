@@ -18,3 +18,4 @@ int main(){
 
   calcSQuare(9, 8);
 }
+
