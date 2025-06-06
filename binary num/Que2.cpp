@@ -20,7 +20,7 @@ int main(){
     cout<<DecNum(25)<<" ";
     cout<<DecNum(49)<<" ";
     cout<<DecNum(31)<<" ";
-    cout<<DecNum(88)<<" "
+    cout<<DecNum(88)<<" ";
     
     
 }
