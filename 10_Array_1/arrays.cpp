@@ -131,7 +131,7 @@ int main() {
     cout << binSearch(arr, 5, 3) << endl;
 
     printSubarrays(arr, 5);
-    return 0
+    return 0;
 }
 
 
