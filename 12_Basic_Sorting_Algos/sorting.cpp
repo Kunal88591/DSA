@@ -114,7 +114,7 @@ int main() {
     char ch[] = { 'f', 'b', 'a', 'e', 'c', 'd'};
     sortChars(ch, 6);
     
-    return 0  
+    return 0;
 }
 
 
