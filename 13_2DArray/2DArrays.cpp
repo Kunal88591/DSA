@@ -130,7 +130,7 @@ int main() {
 
     //Pointers & 2D Arrays
     func(matrix);
-    return 0;    
+    return 0 
 }
 
 
