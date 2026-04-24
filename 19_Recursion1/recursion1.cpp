@@ -11,7 +11,7 @@ void func() {
 
 //Factorial 
 int factorial(int n) {
-    if(n == 1) {
+    if(n <= 1) {
         return 1;
     }
     return n * factorial(n-1);
@@ -29,8 +29,8 @@ void print(int n) {
 
 //Sum of N Natural Numbers
 int sum(int n) {
-    if(n == 1) {
-        return 1;
+    if(n <= 0) {
+        return 0;
     }
 
     return n + sum(n-1);
@@ -60,7 +60,7 @@ bool isSorted(int arr[], int i, int n) {
 
 //First Occurrence
 int firstOccur(vector<int> vec, int target, int i) {
-    if(i == vec.size()) {
+    if(i == (int)vec.size()) {
         return -1;
     }
 
@@ -73,7 +73,7 @@ int firstOccur(vector<int> vec, int target, int i) {
 
 //Last Occurrence
 int lastOccur(vector<int> vec, int target, int i) {
-    if(i == vec.size()) {
+    if(i == (int)vec.size()) {
         return -1;
     }
 
